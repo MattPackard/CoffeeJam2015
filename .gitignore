@@ -57,3 +57,6 @@ NewJam/Intermediate/*
 # Cache files for the editor to use
 NewJam/DerivedDataCache/*
 
+NewJam/Saved/Autosaves/PackageRestoreData.json
+NewJam/Intermediate/CachedAssetRegistry.bin
+NewJam/Saved/Config/Windows/EditorPerProjectUserSettings.ini
